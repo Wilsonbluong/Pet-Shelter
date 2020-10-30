@@ -1,0 +1,57 @@
+label {
+  display: inline-block;
+  width: 100px;
+  margin: 0px 0px 15px 0px;
+}
+
+input {
+  width: 275px;
+}
+
+.btn {
+  margin: 5px;
+  border-radius: 4px;
+  background-color: rgb(100, 100, 187);
+  color: white;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+header {
+  display: inline-block;
+}
+
+.body {
+  text-align: center;
+  border: solid black 3px;
+  width: 25%;
+  margin: auto;
+  padding: 35px;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+li {
+  list-style-type: none;
+  text-align: center;
+  align-self: center;
+}
